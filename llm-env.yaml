@@ -6,7 +6,6 @@ dependencies:
   - python=3.9
   - pytorch>=1.13
   - torchvision
-  - torchaudio
   - cudatoolkit=11.7  # Adjust according to your CUDA version
   - transformers>=4.30.0  # For loading LLMs
   - accelerate  # Optimizes model performance
